@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "@astrojs/renderer-preact": "^0.2.2",
-    "astro": "^0.20.11"
+    "astro": "^4.16.18"
   }
 }
